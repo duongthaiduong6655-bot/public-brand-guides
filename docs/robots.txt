@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duongthaiduong6655-bot.github.io/public-brand-guides/sitemap.xml
